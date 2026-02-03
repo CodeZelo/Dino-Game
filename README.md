@@ -3,6 +3,8 @@
 A simple 2D clone of the famous **Google Chrome Dinosaur Game**,  
 built from scratch using pure web technologies.
 
+> > > [Play Now](https://codezelo.github.io/Dino-Game/)
+
 ![Dino Game](/Screenshot.png "Dino Game")
 
 ## 🛠 Built With
